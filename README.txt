@@ -1,0 +1,1 @@
+func: empty core， and assign/tri the output signal to fixed value(0/1)
